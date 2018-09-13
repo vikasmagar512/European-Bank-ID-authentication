@@ -1,8 +1,6 @@
 # European-Bank-ID-authentication
 
 # Implementing Two Factor Authentication using BankID
-Umer Asif, Assistant Software Engineer, Virtual Force Pvt. Ltd.
-
 
 ## What is BankID System
 
